@@ -2,16 +2,16 @@
 ## Gat ekki séð svörin eftir að ég kláraði quizin
 
 ## Kafli 1
-### 1. Question 1
+### 4/5 points (80.00%)
+### Question 1
 Correct
-1. What is a “standalone” headset?
 1 / 1 point
+1. What is a “standalone” headset?
 
 ### Question 2
 Correct
 1 / 1 point
 2. How would you best define augmented reality?
-
 
 ### Question 3
 Correct
@@ -29,7 +29,7 @@ Incorrect
 5. What is one way AR can currently enhance social media?
 
 ## Kafli 2
-## 10/10 points (100.00%)
+### 10/10 points (100.00%)
 ### Question 1
 1 / 1 point
 1. What is a drawback of outside-in tracking?
