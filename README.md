@@ -4,6 +4,7 @@
 ## Kafli 1
 ### 4/5 points (80.00%)
 ### Question 1
+
 Correct
 1 / 1 point
 1. What is a “standalone” headset?
@@ -31,6 +32,8 @@ Incorrect
 ## Kafli 2
 ### 10/10 points (100.00%)
 ### Question 1
+
+Correct
 1 / 1 point
 1. What is a drawback of outside-in tracking?
 
