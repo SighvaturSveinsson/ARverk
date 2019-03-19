@@ -176,9 +176,10 @@ Basic interaction options (X)
 Typical AR character names
 
 ## Kafli 4
+### 8/10 points (80.00%)
 ### 1. Hit-testing…
-Correct
-1 / 1 point
+Incorrect
+0 / 1 point
 
 ...lets you establish a pose for virtual objects
 
@@ -223,12 +224,16 @@ Correct
 None of the above
 
 ### 5. It is advisable to anchor a digital object to a dynamically moving real world object.
+Correct
+1 / 1 point
 
 True
 
 False (X)
 
 ### 6. Why is determining the pose of the virtual camera and the real world important for AR apps?
+Correct
+1 / 1 point
 
 It helps position and orient the digital object in the right direction
 
@@ -239,8 +244,8 @@ It makes AR assets seem more realistic
 All of the above (X)
 
 ### 7. Currently digital objects can only occlude, or block, other digital objects and not real world objects.
-Correct
-1 / 1 point
+Incorrect
+0 / 1 point
 
 True (X)
 
