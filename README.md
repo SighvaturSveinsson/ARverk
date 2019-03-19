@@ -70,14 +70,16 @@ Correct
 ### 9/10 points (90.00%)
 ### 1. ARCore is available in China.
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 True (X)
 
 False
 
 ### 2. ARCore has a hard time detecting feature points on...
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 Smooth white surfaces (X)
 
 Surfaces with contrasting textures
@@ -89,7 +91,8 @@ Natural surfaces like grass
 
 ### 3. Who are team members you should consider hiring to build your ARCore experience?
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 Software developers
 
 3D artists
@@ -101,14 +104,16 @@ All of the above (X)
 
 ### 4. All Android phones on the market are compatible to run ARCore.
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 True
 
 False (X)
 
 ### 5. When considering UX/UI, one good rule of thumb to remember with AR is:
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 Avoid cluttering the screen with too many buttons or elements that might be confusing to users (X)
 
 Always require designers to create feature points before starting development on your AR app
@@ -119,14 +124,16 @@ The widespread availability of powerful mobile processors in new phones has enab
 
 ### 6. It is a good idea to use as many photorealistic assets in your AR project as possible.
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 True
 
 False (X)
 
 ### 7. What might break immersion in an AR app?
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 Assets that attempt photorealism and disappoint
 
 Peering inside 3D digital objects
@@ -137,7 +144,8 @@ All of the above (X)
 
 ### 8. To create your own AR project it is imperative to learn 3D modelling tools like Maya, ZBrush, and 3ds max.
 Incorrect
-0 / 1 point<br>
+0 / 1 point
+
 True (X)
 
 False
