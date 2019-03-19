@@ -26,70 +26,57 @@ Incorrect
 
 ## Kafli 2
 ### 10/10 points (100.00%)
-### Question 1
-
+### 1. What is a drawback of outside-in tracking?
 Correct
 1 / 1 point
-1. What is a drawback of outside-in tracking?
 
-### Question 2
+### 2. With outside-in tracking, sensors are housed within the AR device itself.
 Correct
 1 / 1 point
-2. With outside-in tracking, sensors are housed within the AR device itself.
 
-### Question 3
+### 3. Which of the following devices uses inside-out tracking?
 Correct
 1 / 1 point
-3. Which of the following devices uses inside-out tracking?
 
-### Question 4
+### 4. How does ARCore understand the phone’s position and orientation relative to the world around it?
 Correct
 1 / 1 point
-4. How does ARCore understand the phone’s position and orientation relative to the world around it?
 
-### Question 5
+### 5. Clusters of feature points on a surface are used to create:
 Correct
 1 / 1 point
-5. Clusters of feature points on a surface are used to create:
 
-### Question 6
+### 6. As you walk around an AR experience with your phone, errors accumulate and a device’s position and orientation may shift. What is this called?
 Correct
 1 / 1 point
-6. As you walk around an AR experience with your phone, errors accumulate and a device’s position and orientation may shift. What is this called?
 
-### Question 7
-Correct
-1 / 1
-point
-7. Question 7
-Which best describes feature points?
-
-### Question 8
+### 7. Which best describes feature points?
 Correct
 1 / 1 point
-8. Which of the following is not a technical constraint facing current smartphone AR technology?
 
-### Question 9
+### 8. Which of the following is not a technical constraint facing current smartphone AR technology?
 Correct
 1 / 1 point
-9. The benefit of inside-out tracking is…
 
-### Question 10
+### 9. The benefit of inside-out tracking is…
 Correct
 1 / 1 point
-10. A computer mouse is an example of a User Interface Metaphor.
+
+### 10. A computer mouse is an example of a User Interface Metaphor.
+Correct
+1 / 1 point
 
 ## Kafli 3
 
 ### 1. ARCore is available in China.
 
-True
+True (X)
 
 False
 
 ### 2. ARCore has a hard time detecting feature points on...
 
-Smooth white surfaces (x)
+Smooth white surfaces (X)
 
 Surfaces with contrasting textures
 
@@ -106,19 +93,19 @@ Software developers
 
 Texture artists
 
-All of the above(x)
+All of the above (X)
 
 
 ### 4. All Android phones on the market are compatible to run ARCore.
 
 True
 
-False(x)
+False (X)
 
 
 ### 5. When considering UX/UI, one good rule of thumb to remember with AR is:
 
-Avoid cluttering the screen with too many buttons or elements that might be confusing to users(x)
+Avoid cluttering the screen with too many buttons or elements that might be confusing to users (X)
 
 Always require designers to create feature points before starting development on your AR app
 
@@ -130,7 +117,7 @@ The widespread availability of powerful mobile processors in new phones has enab
 
 True
 
-False(x)
+False (X)
 
 ### 7. What might break immersion in an AR app?
 
@@ -140,11 +127,11 @@ Peering inside 3D digital objects
 
 Insufficient surface mapping data making objects float in air
 
-All of the above(x)
+All of the above (X)
 
 ### 8. To create your own AR project it is imperative to learn 3D modelling tools like Maya, ZBrush, and 3ds max.
 
-True
+True (X)
 
 False
 
@@ -153,7 +140,7 @@ False
 
 3D designers will be experts at this as well, so development always utilizes the same person for both roles
 
-They are complementary fields of product design, and generally speaking UX is the more technical of the two
+They are complementary fields of product design, and generally speaking UX is the more technical of the two (X)
 
 It is advised to avoid designing photorealistic humans
 
@@ -165,6 +152,6 @@ Scene keys
 
 Rendering inputs
 
-Basic interaction options(x)
+Basic interaction options (X)
 
 Typical AR character names
