@@ -180,7 +180,7 @@ Typical AR character names
 Correct
 1 / 1 point
 
-...lets you establish a pose for virtual objects (X)
+...lets you establish a pose for virtual objects
 
 ...ensures that your virtual objects don’t drop frames
 
@@ -188,7 +188,7 @@ Correct
 
 A & C
 
-All of the above
+All of the above (X)
 
 ### 2. Is it possible to download assets into your game during runtime using Google Poly?
 Correct
@@ -230,13 +230,13 @@ False (X)
 
 ### 6. Why is determining the pose of the virtual camera and the real world important for AR apps?
 
-It helps position and orient the digital object in the right direction (X)
+It helps position and orient the digital object in the right direction
 
 It enhances immersion by creating a more realistic environment
 
 It makes AR assets seem more realistic
 
-All of the above
+All of the above (X)
 
 ### 7. Currently digital objects can only occlude, or block, other digital objects and not real world objects.
 Correct
