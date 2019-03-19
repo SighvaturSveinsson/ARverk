@@ -1,5 +1,5 @@
 # Coursera spurningar
-## Gat ekki séð svörin eftir að ég kláraði quizin
+## Gat ekki séð svörin eftir að ég kláraði quizin, fattaði það eftir quiz 2
 
 ## Kafli 1
 ### 4/5 points (80.00%)
