@@ -145,7 +145,8 @@ False
 
 ### 9. When it comes to UX and UI:
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 3D designers will be experts at this as well, so development always utilizes the same person for both roles
 
 They are complementary fields of product design, and generally speaking UX is the more technical of the two (X)
@@ -156,7 +157,8 @@ The most popular interaction mechanic is pinch and zoom
 
 ### 10. Drag and drop, Voice, Tap, Pinch and Zoom, Slide, and Tilting are all examples of what?
 Correct
-1 / 1 point<br>
+1 / 1 point
+
 Scene keys
 
 Rendering inputs
