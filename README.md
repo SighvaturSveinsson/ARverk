@@ -174,3 +174,102 @@ Rendering inputs
 Basic interaction options (X)
 
 Typical AR character names
+
+## Kafli 4
+### 1. Hit-testing…
+Correct
+1 / 1 point
+
+...lets you establish a pose for virtual objects (X)
+
+...ensures that your virtual objects don’t drop frames
+
+...is the next step in the ARCore user process after feature-tracking and plane-finding.
+
+A & C
+
+All of the above
+
+### 2. Is it possible to download assets into your game during runtime using Google Poly?
+Correct
+1 / 1 point
+
+Yes (X)
+
+No
+
+### 3. What is a popular game engine used for creating AR experiences
+Correct
+1 / 1 point
+
+Maya
+
+3ds Max
+
+Tilt Brush
+
+Unity (X)
+
+### 4. Which file formats does Poly support?
+Correct
+1 / 1 point
+
+.obj (X)
+
+.fbx
+
+.sti
+
+None of the above
+
+### 5. It is advisable to anchor a digital object to a dynamically moving real world object.
+
+True
+
+False (X)
+
+### 6. Why is determining the pose of the virtual camera and the real world important for AR apps?
+
+It helps position and orient the digital object in the right direction (X)
+
+It enhances immersion by creating a more realistic environment
+
+It makes AR assets seem more realistic
+
+All of the above
+
+### 7. Currently digital objects can only occlude, or block, other digital objects and not real world objects.
+Correct
+1 / 1 point
+
+True (X)
+
+False
+
+### 8. How does surface detection help produce AR experiences in ARCore?
+Correct
+1 / 1 point
+
+It allows ARCore to place digital objects on various surface heights such as floor, chair or table top
+
+It allows ARCore to render different objects at different sizes and positions
+
+It allows ARCore to create more realistic AR experiences
+
+All of the above (X)
+
+### 9. You can use VR creation tools like Tilt Brush and Blocks to build 3D assets and store them on Poly for use in AR apps.
+Correct
+1 / 1 point
+
+True (X)
+
+False
+
+### 10. Google Poly is an online library where people can browse, share, and remix 3D assets.
+Correct
+1 / 1 point
+
+True (X)
+
+False
