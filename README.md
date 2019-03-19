@@ -3,31 +3,26 @@
 
 ## Kafli 1
 ### 4/5 points (80.00%)
-### Question 1
+### 1. What is a “standalone” headset?
 
 Correct
 1 / 1 point
-1. What is a “standalone” headset?
 
-### Question 2
+### 2. How would you best define augmented reality?
 Correct
 1 / 1 point
-2. How would you best define augmented reality?
 
-### Question 3
+### 3. Project Tango enabled...
 Correct
 1 / 1 point
-3. Project Tango enabled...
 
-### Question 4
+### 4. How have AR apps showcasing furniture enhanced the home shopping experience?
 Correct
 1 / 1 point
-4. How have AR apps showcasing furniture enhanced the home shopping experience?
 
-### Question 5
+### 5. What is one way AR can currently enhance social media?
 Incorrect
 0 / 1 point
-5. What is one way AR can currently enhance social media?
 
 ## Kafli 2
 ### 10/10 points (100.00%)
